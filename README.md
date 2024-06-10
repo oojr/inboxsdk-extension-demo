@@ -1,7 +1,7 @@
 # InboxSDK Demo Extension
 
 ![Example Phishing Report](https://github.com/oojr/inboxsdk-extension-demo/blob/main/images/extension-screenshot-1.png)
-![Example Phishing Report Loading](https://github.com/oojr/inboxsdk-extension-demo/blob/main/images/extension-screenshot-1.png)
+![Example Phishing Report Loading](https://github.com/oojr/inboxsdk-extension-demo/blob/main/images/extension-screenshot.png)
 
 ## Steps to Test the Extension
 
