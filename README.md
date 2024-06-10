@@ -22,4 +22,4 @@
 - Your extension should now appear in the list on the Chrome Extensions page.
 - Open Gmail and open a message and a modal should appear
 
-Make sure to fill the API keys and APP id with values, the program will run without an App id but have a message on top mentioning that an appid is required
+Make sure to fill the API keys and App ID with values, the program will run without an App ID but have a message on top mentioning that an App ID is required.
